@@ -4,3 +4,4 @@ build --java_runtime_version=17
 build --tool_java_language_version=17
 build --tool_java_runtime_version=17
 build --experimental_one_version_enforcement=ERROR
+build --explicit_java_test_deps
